@@ -10,7 +10,7 @@ export default function Home() {
                 quality={100}           // 이미지 품질 (옵션)
                 width={842}
                 height={595}
-                className="w-full mb-3"
+                className="w-full mb-1 md:mb-3"
             />
             <Image
                 src="/images/profile.svg"
@@ -19,7 +19,7 @@ export default function Home() {
                 quality={100}           // 이미지 품질 (옵션)
                 width={842}
                 height={595}
-                className="w-full mb-3"
+                className="w-full mb-1 md:mb-3"
             />
             <Image
                 src="/images/introduce.svg"
@@ -28,7 +28,7 @@ export default function Home() {
                 quality={100}           // 이미지 품질 (옵션)
                 width={842}
                 height={595}
-                className="w-full mb-3"
+                className="w-full mb-1 md:mb-3"
             />
             <Image
                 src="/images/abilities1.svg"
@@ -37,7 +37,7 @@ export default function Home() {
                 quality={100}           // 이미지 품질 (옵션)
                 width={842}
                 height={595}
-                className="w-full mb-3"
+                className="w-full mb-1 md:mb-3"
             />
             <Image
                 src="/images/abilities2.svg"
@@ -46,7 +46,7 @@ export default function Home() {
                 quality={100}           // 이미지 품질 (옵션)
                 width={842}
                 height={595}
-                className="w-full mb-3"
+                className="w-full mb-1 md:mb-3"
             />
             <Image
                 src="/images/project1.svg"
@@ -55,7 +55,7 @@ export default function Home() {
                 quality={100}           // 이미지 품질 (옵션)
                 width={842}
                 height={595}
-                className="w-full mb-3"
+                className="w-full mb-1 md:mb-3"
             />
             <Image
                 src="/images/project2.svg"
@@ -64,7 +64,7 @@ export default function Home() {
                 quality={100}           // 이미지 품질 (옵션)
                 width={842}
                 height={595}
-                className="w-full mb-3"
+                className="w-full mb-1 md:mb-3"
             />
             <Image
                 src="/images/overview.svg"
@@ -73,7 +73,7 @@ export default function Home() {
                 quality={100}           // 이미지 품질 (옵션)
                 width={842}
                 height={595}
-                className="w-full mb-3"
+                className="w-full mb-1 md:mb-3"
             />
             <Image
                 src="/images/thankyou.svg"
@@ -82,7 +82,7 @@ export default function Home() {
                 quality={100}           // 이미지 품질 (옵션)
                 width={842}
                 height={595}
-                className="w-full mb-3"
+                className="w-full mb-1 md:mb-3"
             />
 
         </div>
