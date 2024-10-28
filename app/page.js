@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
     return (
-        <div style={{ position: "relative", width: "100%", height: "100vh" }}>
+        <div style={{ position: "relative", width: "100%", height: "100vh", overflowY: "scroll" }}>
             {/*표지*/}
             <Image
                 src="/images/start.jpg"
